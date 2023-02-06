@@ -1,5 +1,5 @@
 # SunSharp Unity VR Demo
-This is a pseudo-VR project that doubles as a demo and the go-to testing and development setup of the [SunSharp for Unity](https://github.com/Sotakebk/SunSharp) package.
+This is a pseudo-VR project that doubles as a demo and the go-to testing and development setup of the [SunSharp for Unity](https://github.com/Sotakebk/SunSharpUnity) package.
 
 Work in progress!
 ## How to setup
